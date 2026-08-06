@@ -1,5 +1,6 @@
-```markdown
-# 👩‍💻 Ayat | Computer Engineering Student
+
+
+|# 👩‍💻 Ayat | Computer Engineering Student
 
 Welcome to my GitHub profile! I'm a Senior Computer Engineering student at the University of Basrah, passionate about computer architecture, system software, and technology presentation design.
 
@@ -17,12 +18,13 @@ Welcome to my GitHub profile! I'm a Senior Computer Engineering student at the U
 
 ## 🛠️ Skills & Technologies
 
-### **Languages & Tools**
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=gnu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+<p align="left">
+  <img src="[https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)" alt="C++" />
+  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Python" />
+  <img src="[https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=gnu&logoColor=white](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=gnu&logoColor=white)" alt="Assembly" />
+  <img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)" alt="Git" />
+  <img src="[https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)" alt="PowerPoint" />
+</p>
 
 ### **Core Focus Areas**
 - Computer Architecture & Microprocessor Systems (Intel Architecture & Memory Banking)
@@ -41,18 +43,7 @@ Welcome to my GitHub profile! I'm a Senior Computer Engineering student at the U
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayat&show_icons=true&theme=nord" alt="Ayat's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayat&layout=compact&theme=nord" alt="Top Languages" width="48%" />
-</p>
-
----
-
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
 - 📝 **Substack:** [Read My Articles](https://substack.com)
-- 💬 **Telegram Channel:** Presentation & Visual Design Workspace
-
-```
+- 💬 **Telegram:** Presentation & Visual Design Workspace
