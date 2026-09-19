@@ -299,58 +299,6 @@ My favorite things to work on include:
 <sub>© Ayat Haider • EngAyat</sub>
 
 </div>
-                  💡 IDEA
-                    │
-                    ▼
-                📚 RESEARCH
-                    │
-                    ▼
-                 📝 PLAN
-                    │
-                    ▼
-                💻 CODE
-                    │
-                    ▼
-                🎨 DESIGN
-                    │
-                    ▼
-                🧪 TEST
-                    │
-                    ▼
-                🚀 BUILD
-                    │
-                    ▼
-                🌱 LEARN
-                    │
-                    └──────────► REPEAT
-                 💻 CODE
-                    │
-                    │
-                    ▼
-            ┌───────────────┐
-            │               │
-            │   CREATIVE    │
-            │     IDEAS     │
-            │               │
-            └───────────────┘
-                    ▲
-                    │
-                    │
-                 🎨 DESIGN
-                 MY GOALS
-                    │
-        ┌───────────┼───────────┐
-        │           │           │
-        ▼           ▼           ▼
-      📚 LEARN    💻 CODE    🎨 DESIGN
-        │           │           │
-        └───────────┼───────────┘
-                    │
-                    ▼
-                 🧪 BUILD
-                    │
-                    ▼
-                 🚀 GROW
 💻 Coding
 🎨 Designing
 🖥️ Creating Presentations
@@ -359,34 +307,4 @@ My favorite things to work on include:
 🧠 Solving Problems
 🚀 Building Projects
 ✨ Exploring New Ideas
-        WRITE CODE
-             │
-             ▼
-          RUN IT
-             │
-             ▼
-        ❌ ERROR
-             │
-             ▼
-       READ ERROR
-             │
-             ▼
-         FIX IT
-             │
-             ▼
-        RUN AGAIN
-             │
-             ▼
-       ❌ ANOTHER ERROR
-             │
-             ▼
-       QUESTION LIFE 😭
-             │
-             ▼
-          FIX IT
-             │
-             ▼
-        ✅ IT WORKS!
-             │
-             ▼
-       🚀 HAPPY DEVELOPER
+      
