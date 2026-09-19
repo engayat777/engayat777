@@ -299,12 +299,3 @@ My favorite things to work on include:
 <sub>© Ayat Haider • EngAyat</sub>
 
 </div>
-💻 Coding
-🎨 Designing
-🖥️ Creating Presentations
-🖼️ Designing Logos
-📚 Learning
-🧠 Solving Problems
-🚀 Building Projects
-✨ Exploring New Ideas
-      
