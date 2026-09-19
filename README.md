@@ -1,117 +1,277 @@
-<h1 align="center">Hi 👋, I'm Ayat Haider</h1>
-<h3 align="center">Computer Engineering Student | Future Software Developer | Graphic Design Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Learning+Programming;Future+Software+Engineer;Graphic+Design+Enthusiast;PowerPoint+%26+Canva+Designer" />
-</p>
+# 👩🏻‍💻 Ayat Haider
 
----
+### 🎓 Computer Engineering Student | 💻 Programmer | 🎨 Graphic Designer
 
-## 👩‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Welcome+to+EngAyat's+GitHub!;Computer+Engineering+Student;Programming+%2B+Graphic+Design;Building+Ideas+into+Reality+%F0%9F%92%9C" alt="Typing SVG" />
 
-🎓 I'm **Ayat Haider**, a **4th-year Computer Engineering student**.
+<br>
 
-💜 Passionate about **technology, creativity, and continuous learning**.
+<img src="https://komarev.com/ghpvc/?username=EngAyat&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
 
-💡 I enjoy combining **programming** with **creative design** to build projects that are both functional and visually appealing.
-
-🌱 I'm currently learning programming and improving my software development skills every day.
-
-🎨 Besides coding, I love designing professional presentations using **PowerPoint** and **Canva**, and I enjoy exploring the world of **Graphic Design**.
-
-✨ My goal is to become a software engineer who creates useful and beautiful applications.
+</div>
 
 ---
 
-## 🚀 Currently Learning
+<div align="center">
 
-- Programming Fundamentals
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Software Engineering
-- Git & GitHub
-- UI Design Principles
+# 🎮 AYAT'S CODING QUEST
 
----
+> **Player:** Ayat Haider  
+> **Username:** `EngAyat`  
+> **Level:** 4th Year Computer Engineering Student  
+> **Class:** Engineer 👩🏻‍💻  
+> **Main Skills:** Programming + Graphic Design  
+> **Current Mission:** Learn • Build • Design • Create  
+> **Status:** 🟢 Currently Coding...
 
-## 💻 Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,git,github,vscode" />
-</p>
+</div>
 
 ---
 
-## 🎨 Design Skills
+# 🧩 Choose Your Path
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</p>
+<div align="center">
+
+| 💻 Programming | 🎨 Design | 🎓 Engineering | 🚀 Projects |
+|:---:|:---:|:---:|:---:|
+| Coding & Development | Logos & Presentations | Computer Engineering | Ideas → Projects |
+| 🟢 ACTIVE | 🟢 ACTIVE | 🟢 ACTIVE | 🟡 BUILDING |
+
+</div>
 
 ---
 
-## 🎯 Interests
+# 👩🏻‍💻 About Me
 
-- 💻 Software Development
+Hello! I'm **Ayat Haider** 👋🏻
+
+I'm a **4th-year Computer Engineering student** who enjoys combining technology with creativity.
+
+I have a strong interest in:
+
+- 💻 Programming
 - 🎨 Graphic Design
-- 📊 PowerPoint Presentation Design
-- 🖌 Canva Design
-- 🎯 UI / UX Design
+- 🖥️ Presentation Design
+- 🖼️ Logo Design
+- 🧠 Problem Solving
 - 📚 Learning New Technologies
-- 🚀 Problem Solving
+- 🚀 Building Projects
+- ✨ Turning ideas into creative work
 
----
+I enjoy working where **logic meets creativity**.
 
-## 📈 Goals
+```text
+        COMPUTER ENGINEERING
+                 │
+        ┌────────┴────────┐
+        │                 │
+        ▼                 ▼
+   PROGRAMMING         DESIGN
+        │                 │
+        └────────┬────────┘
+                 ▼
+        CREATIVE TECHNOLOGY
+                 │
+                 ▼
+                🚀
+                    🌱
+                    │
+                    ▼
+          ┌──────────────────┐
+          │     LEARNING     │
+          │   & EXPLORING   │
+          └────────┬─────────┘
+                   │
+                   ▼
+          ┌──────────────────┐
+          │   PROGRAMMING    │
+          │  & DEVELOPMENT   │
+          └────────┬─────────┘
+                   │
+                   ▼
+          ┌──────────────────┐
+          │ GRAPHIC DESIGN   │
+          │   & CREATIVITY   │
+          └────────┬─────────┘
+                   │
+                   ▼
+          ┌──────────────────┐
+          │     PROJECTS     │
+          │  & EXPERIMENTS   │
+          └────────┬─────────┘
+                   │
+                   ▼
+                  🚀
+          BUILDING MY FUTURE
+🎨 ───────────────────────────────
 
-- 🌟 Become a professional Software Engineer.
-- 💡 Build innovative and useful software projects.
-- 📚 Keep learning modern technologies.
-- 🎨 Combine programming with creativity and design.
-- 🤝 Contribute to open-source projects.
+       🖼️  LOGO DESIGN
 
----
+       📊  PRESENTATION DESIGN
 
-## 📊 GitHub Stats
+       🖥️  POWERPOINT DESIGN
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight"/>
-</p>
+       ✨  CREATIVE VISUALS
 
----
+       🎯  LAYOUT & COMPOSITION
 
-## 🔥 GitHub Streak
+       💡  CREATIVE CONCEPTS
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
-</p>
-
-<h3 align="center">
-✨ Thanks for visiting my profile! ✨
-</h3>
+🎨 ───────────────────────────────
+| Skill                        | Level |
+| :--------------------------- | :---: |
+| 💻 Programming               | ⭐⭐⭐⭐⭐ |
+| 🎨 Graphic Design            | ⭐⭐⭐⭐⭐ |
+| 🖥️ Presentation Design      | ⭐⭐⭐⭐⭐ |
+| 🧠 Problem Solving           |  ⭐⭐⭐⭐ |
+| 🚀 Project Development       |  ⭐⭐⭐⭐ |
+| 📚 Learning New Technologies | ⭐⭐⭐⭐⭐ |
+                 COMPUTER ENGINEERING
+                          │
+             ┌────────────┴────────────┐
+             │                         │
+             ▼                         ▼
+         HARDWARE                   SOFTWARE
+             │                         │
+             ▼                         ▼
+       Computer Systems          Programming
+       Architecture              Development
+       Electronics               Algorithms
+       Digital Systems           Applications
+╔══════════════════════════════════════════════╗
+║               CURRENT MISSION                ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  [✓] Study Computer Engineering              ║
+║  [✓] Improve Programming Skills              ║
+║  [✓] Develop Creative Design Skills          ║
+║  [✓] Create Presentations                    ║
+║  [✓] Explore Graphic Design                  ║
+║  [ ] Build Bigger Projects                   ║
+║  [ ] Learn More Technologies                 ║
+║  [ ] Keep Growing 🚀                         ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+╔════════════════════════════════════════════╗
+║                PROJECT LAB                 ║
+╠════════════════════════════════════════════╣
+║                                            ║
+║   💻 Programming Projects                  ║
+║                                            ║
+║   🎨 Design Projects                       ║
+║                                            ║
+║   🎓 University Projects                   ║
+║                                            ║
+║   🧪 Experiments                           ║
+║                                            ║
+║   🚀 Future Projects                       ║
+║                                            ║
+║              STATUS: BUILDING...           ║
+║                                            ║
+╚════════════════════════════════════════════╝
+                  💡 IDEA
+                    │
+                    ▼
+                📚 RESEARCH
+                    │
+                    ▼
+                 📝 PLAN
+                    │
+                    ▼
+                💻 CODE
+                    │
+                    ▼
+                🎨 DESIGN
+                    │
+                    ▼
+                🧪 TEST
+                    │
+                    ▼
+                🚀 BUILD
+                    │
+                    ▼
+                🌱 LEARN
+                    │
+                    └──────────► REPEAT
+                 💻 CODE
+                    │
+                    │
+                    ▼
+            ┌───────────────┐
+            │               │
+            │   CREATIVE    │
+            │     IDEAS     │
+            │               │
+            └───────────────┘
+                    ▲
+                    │
+                    │
+                 🎨 DESIGN
+                 MY GOALS
+                    │
+        ┌───────────┼───────────┐
+        │           │           │
+        ▼           ▼           ▼
+      📚 LEARN    💻 CODE    🎨 DESIGN
+        │           │           │
+        └───────────┼───────────┘
+                    │
+                    ▼
+                 🧪 BUILD
+                    │
+                    ▼
+                 🚀 GROW
+💻 Coding
+🎨 Designing
+🖥️ Creating Presentations
+🖼️ Designing Logos
+📚 Learning
+🧠 Solving Problems
+🚀 Building Projects
+✨ Exploring New Ideas
+        WRITE CODE
+             │
+             ▼
+          RUN IT
+             │
+             ▼
+        ❌ ERROR
+             │
+             ▼
+       READ ERROR
+             │
+             ▼
+         FIX IT
+             │
+             ▼
+        RUN AGAIN
+             │
+             ▼
+       ❌ ANOTHER ERROR
+             │
+             ▼
+       QUESTION LIFE 😭
+             │
+             ▼
+          FIX IT
+             │
+             ▼
+        ✅ IT WORKS!
+             │
+             ▼
+       🚀 HAPPY DEVELOPER
+╔════════════════════════════════════════════════════╗
+║                   AYAT HAIDER                     ║
+║                     @EngAyat                      ║
+╠════════════════════════════════════════════════════╣
+║                                                    ║
+║  🎓 Computer Engineering ............ ACTIVE       ║
+║  💻 Programming .................... ACTIVE       ║
+║  🎨 Graphic Design ................. ACTIVE       ║
+║  🖥️ Presentation Design ............ ACTIVE       ║
+║  🚀 Projects ....................... BUILDING      ║
+║  📚 Learning ....................... ALWAYS        ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
