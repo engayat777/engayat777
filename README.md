@@ -254,17 +254,10 @@ My favorite things to work on include:
 
 <div align="center">
 
-<a href="https://github.com/EngAyat">
-  <img src="https://img.shields.io/badge/GitHub-EngAyat-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Let's%20Connect-%E2%9C%A8-9B59B6?style=for-the-badge"/>
+[![GitHub](https://img.shields.io/badge/GitHub-EngAyat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EngAyat)
+[![Let's Connect](https://img.shields.io/badge/Let's%20Connect-✨-9B59B6?style=for-the-badge)](https://github.com/EngAyat)
 
 </div>
-
----
 
 # ✨ A Little Reminder
 
