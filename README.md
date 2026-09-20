@@ -241,10 +241,11 @@ My favorite things to work on include:
 ---
 
 # 🐍 Contribution Snake
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EngAyat&hide_border=true&area=true&theme=tokyo-night" alt="GitHub Contribution Graph"/>
+### 📊 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EngAyat&theme=github-dark&hide_border=true)
 
 </div>
 
