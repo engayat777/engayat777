@@ -244,7 +244,9 @@ My favorite things to work on include:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/EngAyat/EngAyat/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+### ✨ My GitHub Journey
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EngAyat&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
