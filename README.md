@@ -244,7 +244,7 @@ My favorite things to work on include:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EngAyat&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Ayat's GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EngAyat&hide_border=true&area=true&theme=tokyo-night" alt="GitHub Contribution Graph"/>
 
 </div>
 
