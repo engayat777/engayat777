@@ -244,9 +244,7 @@ My favorite things to work on include:
 
 <div align="center">
 
-### ✨ My GitHub Journey
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EngAyat&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EngAyat&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Ayat's GitHub Activity Graph"/>
 
 </div>
 
